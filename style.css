@@ -1,0 +1,49 @@
+.photo{
+    border-radius: 10px;
+    width: 700px;
+    height: 500px;
+}
+body{
+    background-color: cadetblue;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+}
+#tittle, .subtitle, .post_tittle {
+    color: purple;
+}
+.tittle{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.a{
+    text-decoration: line-through;
+    color: blueviolet;
+}
+.post_tittle {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin: 15xp;
+}
+
+.post {
+    background-color: white;
+    padding: 15px;
+    border: solid blueviolet;
+    margin-bottom:15px;
+    border-radius: 15px;
+}
+.post_content{
+    margin: 0;
+    margin-bottom: 0;
+    text-transform: initial;
+}
+.post_img{
+    margin-bottom: 0;
+    border-radius: 10px;
+   }
+.lista1{
+    list-style-type: none;
+    padding-left: 15px;
+}
